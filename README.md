@@ -1,6 +1,3 @@
 # Naanmudhalvan01(Grocery Website)
 # A.SIVAJOTHI
-# B.SANTHIYA
-# V.SIVATHAVASI
-# S.PAVITHRA
-# M.SASIKALA
+
